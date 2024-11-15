@@ -22,6 +22,11 @@ public class Main {
 
         //vectores.navidad();
         //vectores.prueba_buscar();
-        vectores.ruleta();
+        //vectores.ruleta();
+        //vectores.ordenacion();
+        //vectores.duplicados1();
+        //vectores.duplicados2();
+        //vectores.duplicados3();
+        vectores.duplicados_distinct();
         }
     }
